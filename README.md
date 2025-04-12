@@ -15,4 +15,14 @@ Tech Stack
 - JavaScript
 
 🌐 Live Demo
-https:dhruv-1303.github.io/personal-website
+
+https:dhruv-1303.github.io/portfolio-website
+
+
+Installation
+
+```bash
+git clone https://github.com/dhruv-1303/portfolio-website.git
+cd personal-website
+open personalportfolio.html
+
