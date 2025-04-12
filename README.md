@@ -26,3 +26,14 @@ git clone https://github.com/dhruv-1303/portfolio-website.git
 cd personal-website
 open personalportfolio.html
 
+About Me
+I’m a B.Tech IT student with a strong interest in front-end development, fintech, and startup culture. I love building projects that blend creativity and technology to solve real-world problems.
+
+📬 Contact
+GitHub: @dhruv-1303
+
+LinkedIn: https://www.linkedin.com/in/dhruv-dave-22b46a28b
+
+Email: dhruv.star3805@gmail.com
+
+
